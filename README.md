@@ -1,4 +1,4 @@
 # demo_git
-Une demo de GIT
+Une demo de GIT qui se passe bien
 
-qui se passe bien
+et que je modifie en direct depuis Git Hub
